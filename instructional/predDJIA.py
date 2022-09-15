@@ -10,7 +10,7 @@ from htsprophet.hts import hts
 from htsprophet.htsPlot import plotNode
 from lastprophet.last import lastF
 import matplotlib.pyplot as plt
-from fbprophet import Prophet
+from prophet import Prophet
 
 #%% Read in the data
 
