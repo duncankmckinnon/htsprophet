@@ -17,7 +17,7 @@ It was my intention to make some of the code look similar to certain sections in
 
 import pandas as pd
 import numpy as np
-from fbprophet import Prophet
+from prophet import Prophet
 import contextlib, os
 from scipy.special import inv_boxcox
 
